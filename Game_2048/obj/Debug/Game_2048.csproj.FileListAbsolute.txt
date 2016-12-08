@@ -1,0 +1,9 @@
+c:\users\resul\documents\visual studio 2015\Projects\Game_2048\Game_2048\bin\Debug\Game_2048.exe.config
+c:\users\resul\documents\visual studio 2015\Projects\Game_2048\Game_2048\bin\Debug\Game_2048.exe
+c:\users\resul\documents\visual studio 2015\Projects\Game_2048\Game_2048\bin\Debug\Game_2048.pdb
+c:\users\resul\documents\visual studio 2015\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.exe
+c:\users\resul\documents\visual studio 2015\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.pdb
+c:\users\resul\documents\visual studio 2015\Projects\Game_2048\Game_2048\obj\Debug\Game_2048.csprojResolveAssemblyReference.cache
+C:\Users\Rasul\Desktop\Game_2048\Game_2048\bin\Debug\Game_2048.exe.config
+C:\Users\Rasul\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.exe
+C:\Users\Rasul\Desktop\Game_2048\Game_2048\obj\Debug\Game_2048.pdb
