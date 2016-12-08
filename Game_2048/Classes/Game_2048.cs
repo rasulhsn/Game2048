@@ -8,7 +8,8 @@ namespace Game_2048.Classes
     {
         // Property Board...
         private int[,] Matris_Board;
-        private List<bool> Action_Boards;
+        // Not used..
+        //private List<bool> Action_Boards;
 
 
         // Constructor..
