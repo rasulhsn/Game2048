@@ -18,6 +18,7 @@ namespace Game_2048.Classes
             this.Matris_Board = null;
             this.Action_Boards = new List<bool>();
         }
+        
         public Game_2048(int[,] Board)
         {
             if (Board.Length == 16)
@@ -31,6 +32,7 @@ namespace Game_2048.Classes
 
         public void DownKey()
         {
+            
             DownNullControl();
 
             for (int i = 0; i < 4; i++)
@@ -51,6 +53,7 @@ namespace Game_2048.Classes
 
             DownNullControl();
         }
+        // null = 0 It means zero "EMPTY VALUE"
         private void DownNullControl()
         {
             for (int i = 3; i >= 0; i--)
@@ -118,6 +121,7 @@ namespace Game_2048.Classes
 
             LeftNullControl();
         }
+        // null = 0 It means zero "EMPTY VALUE"
         private void LeftNullControl()
         {
             for (int i = 0; i < 4; i++)
@@ -186,6 +190,7 @@ namespace Game_2048.Classes
 
             RightNullControl();
         }
+        // null = 0 It means zero "EMPTY VALUE"
         private void RightNullControl()
         {
             for (int i = 0; i < 4; i++)
