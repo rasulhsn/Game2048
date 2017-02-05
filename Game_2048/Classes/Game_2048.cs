@@ -16,7 +16,7 @@ namespace Game_2048.Classes
         public Game_2048()
         {
             this.Matris_Board = null;
-            this.Action_Boards = new List<bool>();
+            //this.Action_Boards = new List<bool>();
         }
         
         public Game_2048(int[,] Board)
