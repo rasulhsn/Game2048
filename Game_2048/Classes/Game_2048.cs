@@ -99,7 +99,8 @@ namespace Game_2048.Classes
 
             LeftNullControl();
         }
-        private void LeftKey()
+        [Obsolete]
+        public void LeftKey()
         {
             LeftNullControl();
 
@@ -168,7 +169,8 @@ namespace Game_2048.Classes
 
             RightNullControl();
         }
-        private void RightKey()
+        [Obsolete]
+        public void RightKey()
         {
             RightNullControl();
 
@@ -214,7 +216,7 @@ namespace Game_2048.Classes
         }
 
 
-        // Temporary..
+        // Temporary.. Console Testing!
         public void Show_Matris()
         {
             for (int i = 0; i < 4; i++)
