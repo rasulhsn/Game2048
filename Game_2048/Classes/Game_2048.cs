@@ -10,14 +10,6 @@ namespace Game_2048.Classes
         private int[,] Matris_Board;
         // Not used..
         //private List<bool> Action_Boards;
-
-
-        // Constructor..
-        public Game_2048()
-        {
-            this.Matris_Board = null;
-            //this.Action_Boards = new List<bool>();
-        }
         
         public Game_2048(int[,] Board)
         {
@@ -25,8 +17,6 @@ namespace Game_2048.Classes
                 this.Matris_Board = Board;
             else
                 this.Matris_Board = null;
-
-            this.Action_Boards = new List<bool>();
         }
 
 
