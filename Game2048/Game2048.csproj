@@ -7,8 +7,8 @@
     <ProjectGuid>{FD3C8518-CF8A-496B-9AD9-1709EE094D7F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Game_2048</RootNamespace>
-    <AssemblyName>Game_2048</AssemblyName>
+    <RootNamespace>Game2048</RootNamespace>
+    <AssemblyName>Game2048</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -42,7 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\Game_2048.cs" />
+    <Compile Include="BoardController.cs" />
+    <Compile Include="ConsoleBoard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

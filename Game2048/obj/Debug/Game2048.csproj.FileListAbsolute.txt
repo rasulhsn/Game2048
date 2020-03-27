@@ -1,0 +1,11 @@
+C:\Users\Rasul\Documents\VSProjects\Game2048\Game_2048\bin\Debug\Game2048.exe.config
+C:\Users\Rasul\Documents\VSProjects\Game2048\Game_2048\bin\Debug\Game2048.exe
+C:\Users\Rasul\Documents\VSProjects\Game2048\Game_2048\bin\Debug\Game2048.pdb
+C:\Users\Rasul\Documents\VSProjects\Game2048\Game_2048\obj\Debug\Game2048.exe
+C:\Users\Rasul\Documents\VSProjects\Game2048\Game_2048\obj\Debug\Game2048.pdb
+C:\Users\Rasul\Documents\VSProjects\Game2048\Game2048\bin\Debug\Game2048.exe.config
+C:\Users\Rasul\Documents\VSProjects\Game2048\Game2048\bin\Debug\Game2048.exe
+C:\Users\Rasul\Documents\VSProjects\Game2048\Game2048\bin\Debug\Game2048.pdb
+C:\Users\Rasul\Documents\VSProjects\Game2048\Game2048\obj\Debug\Game2048.csprojAssemblyReference.cache
+C:\Users\Rasul\Documents\VSProjects\Game2048\Game2048\obj\Debug\Game2048.exe
+C:\Users\Rasul\Documents\VSProjects\Game2048\Game2048\obj\Debug\Game2048.pdb
